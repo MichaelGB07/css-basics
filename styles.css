@@ -1,7 +1,26 @@
-.div {
-    background-color: red;
-    color: white;
-    font-size: 32px;
-    text-align: center;
+.Number-1 {
+    font-family: verdana, DejaVu sans, sans-serif;
+    background-color:rgba(248, 145, 168, 0.925)
+}
+
+#Number-2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.Number-3 {
+    font-family: verdana, DejaVu sans, sans-serif;
+    font-size: 24px;
+    background-color:rgba(248, 145, 168, 0.925)
+}
+
+#Number-4 {
+    font-size: 24px;
     font-weight: bold;
+    background-color:rgb(119, 245, 119)
+}
+
+.Number-5 {
+    font-family: verdana, DejaVu sans, sans-serif;
+    background-color:rgba(248, 145, 168, 0.925)
 }
